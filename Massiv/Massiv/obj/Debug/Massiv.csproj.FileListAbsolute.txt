@@ -1,0 +1,6 @@
+C:\Users\babae_000\Desktop\двумерные массивы\Massiv\Massiv\bin\Debug\Massiv.exe.config
+C:\Users\babae_000\Desktop\двумерные массивы\Massiv\Massiv\bin\Debug\Massiv.exe
+C:\Users\babae_000\Desktop\двумерные массивы\Massiv\Massiv\bin\Debug\Massiv.pdb
+C:\Users\babae_000\Desktop\двумерные массивы\Massiv\Massiv\obj\Debug\Massiv.csprojResolveAssemblyReference.cache
+C:\Users\babae_000\Desktop\двумерные массивы\Massiv\Massiv\obj\Debug\Massiv.exe
+C:\Users\babae_000\Desktop\двумерные массивы\Massiv\Massiv\obj\Debug\Massiv.pdb
